@@ -8,6 +8,55 @@
         "branch-alias": {
             "dev-master": "1.0.x-dev"
         }
+    },
+    "autoload": {
+        "classmap": [
+            "Archive/src/",
+            "Authentication/src/",
+            "AuthenticationDatabaseTiein/src/",
+            "Base/src/",
+            "Cache/src/",
+            "Configuration/src/",
+            "ConsoleTools/src/",
+            "Database/src/",
+            "DatabaseSchema/src/",
+            "Debug/src/",
+            "Document/src/",
+            "EventLog/src/",
+            "EventLogDatabaseTiein/src/",
+            "Execution/src/",
+            "Feed/src/",
+            "File/src/",
+            "Graph/src/",
+            "GraphDatabaseTiein/src/",
+            "ImageAnalysis/src/",
+            "ImageConversion/src/",
+            "Mail/src/",
+            "MvcAuthenticationTiein/src/",
+            "MvcFeedTiein/src/",
+            "MvcMailTiein/src/",
+            "MvcTemplateTiein/src/",
+            "MvcTools/src/",
+            "PersistentObject/src/",
+            "PersistentObjectDatabaseSchemaTiein/src/",
+            "PhpGenerator/src/",
+            "Search/src/",
+            "SignalSlot/src/",
+            "SystemInformation/src/",
+            "Template/src/",
+            "TemplateTranslationTiein/src/",
+            "Translation/src/",
+            "TranslationCacheTiein/src/",
+            "Tree/src/",
+            "TreeDatabaseTiein/src/",
+            "TreePersistentObjectTiein/src/",
+            "Url/src/",
+            "UserInput/src/",
+            "Webdav/src/",
+            "Workflow/src/",
+            "WorkflowDatabaseTiein/src/",
+            "WorkflowEventLogTiein/src/",
+            "WorkflowSignalSlotTiein/src/"
+        ]
     }
 }
-
